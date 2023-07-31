@@ -11,14 +11,8 @@
 <br/>
 
 
-### 만든이
-| <img src="https://avatars.githubusercontent.com/u/79046106?v=4" alt="" width=150> |
-| :-------------------------------------------------------------------------------: |
-| [정다빈](https://github.com/70825) |
+### Contributors
 
-<br/>
-
-### 오타 찾아주신 분들
-| <img src="https://avatars.githubusercontent.com/u/81344634?v=4" alt="" width=150> | <img src="https://avatars.githubusercontent.com/u/116543071?v=4" alt="" width=150> | <img src="https://avatars.githubusercontent.com/u/139088684?v=4" alt="" width=150> |
-| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
-| [전영서](https://github.com/Youngseo-Jeon0313) | [김종현](https://github.com/bell2000) | [박상신](https://github.com/ParkSangsin) |
+| <img src="https://avatars.githubusercontent.com/u/79046106?v=4" alt="" width=150> | <img src="https://avatars.githubusercontent.com/u/81344634?v=4" alt="" width=150> | <img src="https://avatars.githubusercontent.com/u/116543071?v=4" alt="" width=150> | <img src="https://avatars.githubusercontent.com/u/139088684?v=4" alt="" width=150> |
+| :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
+| [정다빈](https://github.com/70825) | [전영서](https://github.com/Youngseo-Jeon0313) | [김종현](https://github.com/bell2000) | [박상신](https://github.com/ParkSangsin) |
