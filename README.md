@@ -1,4 +1,4 @@
-# Koala Basic Study
+# Koala Basic Algorithm Study
 
 한국항공대학교 알고리즘학회 Koala에서 학기중에 진행하는 기초 알고리즘 스터디입니다.
 
