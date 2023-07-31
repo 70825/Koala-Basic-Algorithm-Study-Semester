@@ -5,6 +5,9 @@
 팀블로그: [https://kau-algorithm.tistory.com/](https://kau-algorithm.tistory.com/)
 
 <br/>
+
+오타를 발견할 경우 [여기](https://github.com/70825/Koala-Basic-Algorithm-Study-Semester/issues)에 글을 작성해주세요~!!
+
 <br/>
 <br/>
 <br/>
